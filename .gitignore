@@ -33,3 +33,5 @@ node_modules/
 !/test/dummy/storage/.keep
 /test/dummy/public/uploads
 /test/dummy/app/assets/builds/*
+
+flowbite-*.gem
